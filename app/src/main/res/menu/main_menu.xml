@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_all_tasks"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="All Tasks"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_pending"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="Pending Tasks"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_completed"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="Completed Tasks"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_logout"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:title="Logout"
+        app:showAsAction="never"/>
+</menu>
