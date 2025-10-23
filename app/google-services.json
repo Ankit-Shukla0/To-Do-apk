@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504809402323",
+    "project_id": "aii-todo-app",
+    "storage_bucket": "aii-todo-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504809402323:android:74585cb50809f844c30926",
+        "android_client_info": {
+          "package_name": "com.searchbar.aii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZrs6Y1PdQAdB6JZUU9-bDRpysc4PSKi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
